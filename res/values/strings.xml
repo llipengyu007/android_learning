@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_dialog">ActivityDialog</string>
+    <string name="title_activity_activity_image">ActivityImage</string>
+    <string name="title_activity_activitytmp">Activitytmp</string>
+    <string name="title_activity_grid_view">GridView</string>
+
+</resources>
